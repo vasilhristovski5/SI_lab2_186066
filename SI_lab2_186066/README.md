@@ -8,6 +8,7 @@
 
 **Control Flow Graph**
 
+SI_lab2_186066/function_cfd.jpg
 
 
 **Цикломатска комплексност**
