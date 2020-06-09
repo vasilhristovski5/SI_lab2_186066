@@ -8,7 +8,8 @@
 
 **Control Flow Graph**
 
-![Alt text](SI_lab2_186066/function_cfd.jpg)
+![function_cfd](https://user-images.githubusercontent.com/63375945/84186588-0b9c6480-aa91-11ea-806a-b3131e8bede8.jpg)
+
 
 
 
